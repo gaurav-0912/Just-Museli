@@ -4,5 +4,8 @@ Its a desktop app for a museli company for its customers to order their customiz
 # A quick tour of my app: 
 
 
-Uploading JustMuslie (1).mp4…
+
+https://github.com/user-attachments/assets/0e3b64b7-a757-4a64-ade1-c77ee59b907b
+
+
 
